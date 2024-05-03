@@ -1,6 +1,7 @@
 Hi! I'm Mary Ann “Mara” Estopin, a Fraud Specialist at JP Morgan and Co., currently loaned to Retail Customer Service to support their line of business.
 
-- **About Me**: I am a dedicated professional with a strong background in fraud detection and prevention. I am known for my analytical thinking skills, attention to detail, critical thinking, and problem-solving abilities. I thrive in teamwork and collaboration, and I uphold professionalism and a strong work ethic in all that I do.
+- **About Me**: 
+I am a dedicated professional with a strong background in fraud detection and prevention. I am known for my analytical thinking skills, attention to detail, critical thinking, and problem-solving abilities. I thrive in teamwork and collaboration, and I uphold professionalism and a strong work ethic in all that I do.
 
 - **Skills**:
   - Analytical thinking skills
