@@ -20,27 +20,3 @@ Hi! I'm Mary Ann “Mara” Estopin, a Fraud Specialist at JP Morgan and Co., cu
 Feel free to reach out for collaborations or just to say hi! 😊
 
 
-import requests
-
-username = 'your_github_username'
-token = 'your_github_token'
-
-url = 'https://api.github.com/user/repos'
-
-headers = {
-    'Authorization': 'token ' + token
-}
-
-data = {
-    'name': 'new-repository',
-    'description': 'This is a new repository created using the GitHub API',
-    'private': False
-}
-
-response = requests.post(url, json=data, headers=headers)
-
-if response.status_code == 201:
-    print('Repository created successfully')
-else:
-    print('Failed to create repository')
-    print(response.json())
