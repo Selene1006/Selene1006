@@ -15,7 +15,7 @@ Hi! I'm Mary Ann “Mara” Estopin, a Fraud Specialist at JP Morgan and Co., cu
 
 - **Contact**:
   - Email: estopin.maryann06@gmail.com
-  - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mary-ann-estopin-a7b9a8a3/)
+  - LinkedIn: [Mary Ann B. Estopin](https://www.linkedin.com/in/mary-ann-estopin-a7b9a8a3/)
 
 Feel free to reach out for collaborations or just to say hi! 😊
 
